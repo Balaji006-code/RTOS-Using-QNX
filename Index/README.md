@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" width="200">
-</p>
-# 19EC527: Real Time Operating System using QNX
+  <img src="logo.png" alt="Logo" width="1000">
 
+# 19EC527: Real Time Operating System using QNX
+</p>
 ## Table of Contents
 
 | Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
